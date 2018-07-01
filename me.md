@@ -55,7 +55,7 @@
 **任职时间：2015.04 -- 至今**     
 **任职职务：PHP工程师兼项目负责人**     
 **详细项目：[简单任务](https://github.com/Hongic/Resume/blob/master/jdtask.md)**     
-**详细项目：<a href="https://github.com/Hongic/Resume/blob/master/jdtask.md" target="_blank">简单任务</a>**    
+ 
 
 
 
