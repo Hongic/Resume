@@ -52,8 +52,9 @@
 
 ## 工作经历 
 **任职公司：广州任务信息技术有限公司**      
-**任职时间：2015.04 -- 至今** 
-**任职职务：[PHP工程师兼项目负责人](https://github.com/Hongic/Resume/blob/master/php.md)**
+**任职时间：2015.04 -- 至今**     
+**任职职务：[PHP工程师兼项目负责人](https://github.com/Hongic/Resume/blob/master/php.md)**    
+
 
 
 
