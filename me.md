@@ -27,8 +27,10 @@
 期望职位： 	PHP工程师（趋向管理）   
 期望地点： 	广州 天河区   
 期望年薪： 	**15W+**   
-优先考虑参与的项目：**区块链、人工智能、物联网、在线旅游、大出行**        
-具体可微信细聊，请备注身份信息。    ![我的头像](https://github.com/Hongic/Resume/raw/master/image/wechat.png)
+优先考虑参与的项目：**区块链、人工智能、物联网、在线旅游、大出行**     
+
+![我的头像](https://github.com/Hongic/Resume/raw/master/image/wechat.png)                   
+具体可微信细聊，请备注身份信息。          
 
 ----------
 
